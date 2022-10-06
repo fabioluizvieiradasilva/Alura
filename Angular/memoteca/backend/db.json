@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Cuidar de nossas raízes nos ajuda a viver melhor. Não podemos pensar só nas folhas e frutos, é preciso dar atenção também às nossas raízes.",
+      "autoria": "Fabinho",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "Angular é o melhor front-end",
+      "autoria": "Google",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Amar é muito mais do que dizer um eu te amo.",
+      "autoria": "Shakespeare",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "autoria": "Lorem Ipsum",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
