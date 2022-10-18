@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddDbContext<FilmeContext>(opt => opt.UseMySql(builder.Configuration.GetConnectionString("FilmeConnection")
+builder.Services.AddDbContext<FilmeContext>(opt => opt.UseLazyLoadingProxies().UseMySql(builder.Configuration.GetConnectionString("FilmeConnection")
     ,new MySqlServerVersion(new Version(8,0))));
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

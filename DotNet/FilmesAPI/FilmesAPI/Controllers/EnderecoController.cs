@@ -36,6 +36,26 @@ namespace FilmesAPI.Controllers
             return Ok(readEnderecoDto);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult AtualizaEndereco(int id, [FromBody] UpdateEnderecoDto enderecoDto)
+        {
+            Endereco endereco = _context.Enderecos.FirstOrDefault(endereco=>endereco.Id == id);
+            if (endereco == null)
+                return NotFound();
+            _mapper.Map(enderecoDto, endereco);
+            _context.SaveChanges();
+            return NoContent();
+        }
+
+        [HttpPost]
+        public IActionResult AdicionarEndereco([FromBody] CreateEnderecoDto enderecoDto)
+        {
+            Endereco endereco = _mapper.Map<Endereco>(enderecoDto);
+            _context.Enderecos.Add(endereco);
+            _context.SaveChanges();
+            return CreatedAtAction(nameof(RecuperaEnderecoPorId), new { Id = endereco.Id}, endereco);
+        }
+
 
     }
 }
