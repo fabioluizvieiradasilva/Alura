@@ -18,5 +18,6 @@ namespace FilmesAPI.Data.DTOs.Filme
         [Range(1, 180, ErrorMessage = "O campo duração deve ter no mínimo 1 e no máximo 180 minutos.")]
         public int Duracao { get; set; }
         public DateTime HoraConsulta { get; set; }
+        public int ClassificacaoEtaria { get; set; }
     }
 }
