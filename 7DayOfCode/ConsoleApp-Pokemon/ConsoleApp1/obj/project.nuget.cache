@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfq4f2T20VsGhdj7/B038ZyWJbeH6zn8LNGttxtQdid7P27Z24ykHqcIXZNQQA7EdxdxsjY73zP5sdsi5RV+9g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Alura\\7DayOfCode\\ConsoleApp-Pokemon\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fvieisil\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

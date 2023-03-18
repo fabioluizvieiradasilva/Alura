@@ -1,0 +1,17 @@
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\bin\Debug\net7.0\RestSharp.dll
+C:\Dev\Alura\7DayOfCode\ConsoleApp-Pokemon\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
