@@ -9,6 +9,7 @@ namespace ConsoleApp1.Model
 {
     public class Mascote
     {
+
         [JsonPropertyName("name")]
         public string Name { get; set; }
         [JsonPropertyName("height")]
@@ -17,5 +18,7 @@ namespace ConsoleApp1.Model
         public int Weight { get; set; }
         [JsonPropertyName("abilities")]
         public List<Abilities> Abilities { get; set; }
+        [JsonPropertyName("results")]
+        public List<Pokemon> Pokemons { get; set; }
     }
 }
